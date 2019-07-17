@@ -1,2 +1,2 @@
 # EJS_Blog
-Blog website created using embedded javascript templates 
+Blog website created using embedded javascript templates and a backend using Mongoose
