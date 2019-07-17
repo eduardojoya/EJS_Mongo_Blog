@@ -7,7 +7,7 @@ const mongoose = require("mongoose");
 const _ = require("lodash");
 
 const homeStartingContent =
-  "This is a  Blog website creating using EJS to solidify my foundation in JavaScript";
+  "This is a  Blog website created using EJS to solidify my foundation in JavaScript";
 const aboutContent = "My name is Edo and I'm an aspiring software developer";
 const contactContent = "Github- https://github.com/eduardojoya";
 
